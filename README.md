@@ -32,3 +32,25 @@ its objectives, scopes, project justification, risks, project deliverables, and 
 ![image](https://user-images.githubusercontent.com/36043230/91933604-f2f5c080-ed06-11ea-9bda-9031c306dbea.png)   
 ![image](https://user-images.githubusercontent.com/36043230/91933626-02750980-ed07-11ea-8a22-9f91fd3c522b.png)
 
+6.  Invoice Panel
+
+![image](https://user-images.githubusercontent.com/36043230/91933693-2a646d00-ed07-11ea-8073-90baf1989cf6.png)
+
+
+7.  Payment Panel
+
+![image](https://user-images.githubusercontent.com/36043230/91933762-5122a380-ed07-11ea-94cc-973ea9aa16e9.png)
+
+
+8. Update Panel
+
+![image](https://user-images.githubusercontent.com/36043230/91933804-61d31980-ed07-11ea-8df4-fc526b8e3ad3.png)
+
+
+>>>>>>    Future Scope Of Project <<<<<<<<<<<
+
+-->  Make the database online to interact with the customer directly. 
+-->  Providing the online payment of rent and bills for the tenant by the credit card/debit card, UPI, net banking. 
+-->  Provide a feedback facility for customers.
+
+
