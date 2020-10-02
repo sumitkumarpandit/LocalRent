@@ -47,7 +47,7 @@ its objectives, scopes, project justification, risks, project deliverables, and 
 ![image](https://user-images.githubusercontent.com/36043230/91933804-61d31980-ed07-11ea-8df4-fc526b8e3ad3.png)
 
 
->>>>>>    Future Scope Of Project <<<<<<<<<<<
+>>>>>>    Future Scope Of Project
 
 -->  Make the database online to interact with the customer directly. 
 
@@ -55,6 +55,5 @@ its objectives, scopes, project justification, risks, project deliverables, and 
 -->  Providing the online payment of rent and bills for the tenant by the credit card/debit card, UPI, net banking.
 
 
--->  Provide a feedback facility for customers.
 
 
